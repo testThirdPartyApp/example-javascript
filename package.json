@@ -6,7 +6,7 @@
   "description": "A node project to demostrate srcclr scans",
   "dependencies": {
     "jquery": "3.0.0-alpha1",
-    "express": "4.1.1",
+    "express": "4.16.0",
     "boom": "0.2.1",
     "tinymce": "4.2.3",
     "hapi": "8.1.0",
